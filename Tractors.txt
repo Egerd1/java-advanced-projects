@@ -1,0 +1,3 @@
+Tractor, BMW, P180, 28000
+Tractor, John Deer, T200, 31000
+Tractor, Ferarri, X23, 0

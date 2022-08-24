@@ -1,0 +1,4 @@
+Motorcycle, Honda, CBR1000, 15000, 280, CHOPPER
+Motorcycle, BMW, R1200, 12000, 250, CRUISER
+Motorcycle, Yamaha, Z300, 11000, 230, CHOPPER
+Motorcycle, Honda, NC750, 8000, 200, ENDURO

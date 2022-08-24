@@ -1,0 +1,5 @@
+Car, Mercedes, C180, 20000, 220, AUTOMATIC, SEDAN
+Car, Mercedes, C230, 25000, 240, AUTOMATIC, COUPE
+Car, Volkswagen, Passat, 18000, 200, MANUAL, SEDAN
+Car, BMW, 3, 22500, 240, MANUAL, WAGON
+Car, Honda, Civic, 13000, 180, MANUAL, COUPE
